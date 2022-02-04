@@ -1,3 +1,2 @@
 # FastAPI
 
-### Initial Commit
